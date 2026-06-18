@@ -6,6 +6,7 @@ The Library Management System is a database-driven project developed using SQL t
 
 The project demonstrates database design, data manipulation, reporting, and automation using advanced SQL concepts including Joins, Aggregations, CTAS, Stored Procedures, and Business Reporting.
 
+![Library Management System ER Diagram](library.jpg)
 ---
 
 ## 🎯 Objectives
@@ -63,6 +64,7 @@ Tracks returned books and return dates.
 
 ![Library Management System ER Diagram](erd.jpg)
 ---
+
 
 ## 🔍 Features Implemented
 
